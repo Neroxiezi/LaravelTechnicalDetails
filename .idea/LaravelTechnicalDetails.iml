@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lara/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/container" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/database" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/events" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/http" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/pipeline" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/session" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/illuminate/view" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/lara/vendor/symfony/translation" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
